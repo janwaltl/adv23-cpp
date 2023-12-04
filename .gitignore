@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# my env
+build/
+.cache
+.gdb_history
+compile_commands.json
